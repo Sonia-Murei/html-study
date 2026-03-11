@@ -1,3 +1,8 @@
-git- checks if git is available in the laptop. See git help -a
-git init- makes the folder to start using git. IT IS DONE ONLY ONCE
-git add . -adds all files in the folder to be tracked by git.
+git= checks if git is available in the laptop. See git help -a
+git init =makes the folder to start using git. IT IS DONE ONLY ONCE
+git add . =adds all files in the folder to be tracked by git.
+git commit -m "first commit"=adds a message/tag to your changes.
+git remote add origin https://github.com/Sonia-Murei/html-study.git =Connects the folder in your computer to your github repository. DONE ONCE IN YOUR PROJECT
+git config --global user.mail "yourgithubemail"= DONE ONCE IN YOUR COMPUTER.
+git config --global user.name"yourgithubusername"= DONE ONCE IN YOUR COMPUTER.
+git push origin master = Pushes code from your computer to your github repository
